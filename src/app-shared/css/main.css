@@ -252,7 +252,7 @@ li p {
 	line-height: 24px;
 	color: var(--textarea-color);
 	background-color: #a78fc4;
-	box-shadow: 0 0 60px rgba(154, 119, 197, 0.8);
+	box-shadow: 0 0 40px rgba(154, 119, 197, 0.8);
 }
 
 #markdown:focus,

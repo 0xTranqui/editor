@@ -242,13 +242,17 @@ li p {
 	width: 100%;
 	resize: none;
 	margin: 0;
-	padding: 5px 0 0;
-	border: 0;
+	padding: 10px 10px;
+	border: 2px;
+	border-color: #E4DAEA;
+	border-style: solid;
+	border-radius: 4px;
 	-moz-tab-size: 4;
 	-o-tab-size: 4;
 	tab-size: 4;
 	color: var(--textarea-color);
-	background-color: transparent;
+	background-color: #a78fc4;
+	box-shadow: 0 0 40px rgba(154, 119, 197, 0.8);
 }
 
 #markdown:focus,

@@ -1,3 +1,9 @@
+# EDIT: how to run locally
+1. npm install
+2. npm build
+3. npx serve /dist (have to install serve -g first)
+
+
 # Minimalist Online Markdown Editor
 
 This is the source for the **simplest** and **slickest** online Markdown editor, available online here: <http://markdown.pioul.fr>  
